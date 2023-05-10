@@ -58,4 +58,4 @@ If you find this repository helpful, please give it a ⭐️ to show your suppor
 For any questions or suggestions, please open an issue or reach out to the project maintainers.
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/fNaALQsObbw)
